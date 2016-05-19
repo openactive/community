@@ -8,4 +8,4 @@ This repository contains discussion and document relating to the Openactive comm
 
 The [Openactive W3C Community Group](https://www.w3.org/community/openactive/) is covered by a charter.  Our work on standards for the sector is on [GitHub](https://github.com/openactive/community/), and anyone is welcome to contribute.
 
-Please join the [Openactive W3C Community Group](https://www.w3.org/community/openactive/), and join the conversation.
+We are really in need of active technical participants in Openactive, so please join the [Openactive W3C Community Group](https://www.w3.org/community/openactive/), and join the conversation.
