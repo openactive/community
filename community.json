@@ -198,12 +198,6 @@
             "description": "Nudjed combine behavioural science with technology to support better health and wellbeing interventions. Focusing on engagement data and tailored content, Nudjed aims to help groups and individuals identify the next step to being happier and healthier.",
             "url": "https://www.nudjed.com/"
         },
-        "openplay": {
-            "image": "openplay.png",
-            "name": "OpenPlay",
-            "description": "OpenPlay is an online platform that connects sports facilities, activity providers and the public together in one place to make it easier for people to get active. It is free for the public and provides and end-to-end online booking system for venues as such as parks, schools, community sites and sports centres as well as activity providers such as coaching organisations and class providers. It receives 80,000+ visitors a month and has over 24,000 registered users.",
-            "url": "http://www.openplay.co.uk/"
-        },
         "opentrack": {
             "image": "opentrack.png",
             "name": "OpenTrack",
@@ -307,5 +301,13 @@
             "url": "https://play.google.com/store/apps/details?id=com.yesweplay.yesweplay"
         }
     },
+    "pioneers" : {
+        "openplay": {
+            "image": "openplay.png",
+            "name": "OpenPlay",
+            "description": "OpenPlay is an online platform that connects sports facilities, activity providers and the public together in one place to make it easier for people to get active. It is free for the public and provides and end-to-end online booking system for venues as such as parks, schools, community sites and sports centres as well as activity providers such as coaching organisations and class providers. It receives 80,000+ visitors a month and has over 24,000 registered users.",
+            "url": "http://www.openplay.co.uk/"
+        }
+    }
     "license": "https://creativecommons.org/licenses/by/4.0/"
 }
