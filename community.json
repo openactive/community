@@ -192,6 +192,12 @@
             "description": "London Sport: Making physical activity and sport work better in London. Their vision is to make London the most physically active city in the world, by getting 1,000,000 more Londoners active by 2020. Their aim is simple: to help make London happier, healthier and stronger through sport. They do this by working in partnership with the numerous organisations involved in physical activity and sport in London.",
             "url": "https://londonsport.org/"
         },
+        "move": {
+            "image": "move.png",
+            "name": "Move",
+            "description": "One membership to thousands of gyms, studios and classes. We are a subscription marketplace service on a mission to make staying active easy - think ‘Spotify’ but for all your fitness needs. We remove the hassles in finding, joining and ‘pausing’ fitness memberships so the consumer has 100% control in app or online. Find us at movegb.com and moveusa.com",
+            "url": "https://movegb.com/"
+        },
         "mylocalpitch": {
             "image": "mylocalpitch.png",
             "name": "MyLocalPitch",
