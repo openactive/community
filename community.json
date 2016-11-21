@@ -132,6 +132,12 @@
             "description": "Freestyle Football Federation is the world governing body for freestyle football. It has been established upon a backbone of community development and education. This means we recognise the power this exciting sport has to inspire healthy active lifestyles for young people all over the world. Aside from growing the sport as a full time profession for the athletes, the Federation is committed to teaching key life skills, nutrition and academics through freestyle football.",
             "url": "http://www.freestylefootball.org/"
         },
+        "fusion-lifestyle": {
+            "image": "fusion.png",
+            "name": "Fusion Lifestyle",
+            "description": "Fusion Lifestyle is a highly experienced sports and leisure management organisation. We work in partnership with local authorities, schools and colleges, and other public sector organisations, to provide recreational sport, health and fitness activities to local communities.",
+            "url": "https://www.fusion-lifestyle.com/"
+        },
         "fynder": {
             "image": "fynder.png",
             "name": "Fynder",
@@ -319,12 +325,6 @@
             "name": "OpenPlay",
             "description": "OpenPlay is an online platform that connects sports facilities, activity providers and the public together in one place to make it easier for people to get active. It is free for the public and provides and end-to-end online booking system for venues as such as parks, schools, community sites and sports centres as well as activity providers such as coaching organisations and class providers. It receives 80,000+ visitors a month and has over 24,000 registered users.",
             "url": "http://www.openplay.co.uk/"
-        },
-        "fusion-lifestyle": {
-            "image": "fusion.png",
-            "name": "Fusion Lifestyle",
-            "description": "Fusion Lifestyle is a highly experienced sports and leisure management organisation. We work in partnership with local authorities, schools and colleges, and other public sector organisations, to provide recreational sport, health and fitness activities to local communities.",
-            "url": "https://www.fusion-lifestyle.com/"
         }
     },
     "license": "https://creativecommons.org/licenses/by/4.0/"
