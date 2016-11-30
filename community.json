@@ -240,6 +240,12 @@
             "description": "Pitchwise is a one-stop portal for the sports community, designed to optimise customers time and money, and put an end to unused resources in the city. It started out from a personal desire for tools to help manage my London based football team better, and has evolved to become a comprehensive gateway for both users and vendors of football facilities.",
             "url": "https://pitchwise.co.uk/"
         },
+        "playfootball": {
+            "image": "playfootball.png",
+            "name": "PlayFootball",
+            "description": "PlayFootball are premium FA accredited, small sided football venues offering floodlit 3G pitches, for competitive leagues and pitch hire.",
+            "url": "https://www.playfootball.net/"
+        },
         "playwaze": {
             "image": "playwaze.png",
             "name": "Playwaze",
