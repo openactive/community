@@ -60,6 +60,12 @@
             "description": "Wherever we stage orienteering people flock to take part and our mission is to create more opportunities for people of all abilities to enjoy orienteering. Making our event and activities information open source is a key part of our plans to make our sport more accessible.",
             "url": "https://www.britishorienteering.org.uk/"
         },
+        "british-rowing": {
+            "image": "british-rowing.png",
+            "name": "British Rowing",
+            "description": "British Rowing, as the governing body for the sport, is responsible for the development of rowing in England and the training and selection of rowers to represent Great Britain. Our vision, through rowing, is to promote the positive impact of sport by providing an enjoyable experience for all participants while upholding our position as a leading rowing nation.",
+            "url": "http://www.britishrowing.org/"
+        },
         "csp-network": {
             "image": "csp-network.png",
             "name": "CSP Network",
