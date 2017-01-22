@@ -162,6 +162,12 @@
             "description": "GoodGym is a community of runners who get fit by doing good. Whether you're new to running or are trying to beat your marathon PB, you can join GoodGym and do some good in your area by doing physical tasks that benefit your community, ranging from community projects to helping vulnerable people to visiting isolated older people.",
             "url": "http://www.goodgym.org/"
         },
+        "gosweat": {
+            "image": "gosweat.png",
+            "name": "GoSweat",
+            "description": "GoSweat is designed to make it easier to search find and book every sporting activity going on around you - gyms, PTs, Classes, Yoga, Pilates, Clubs, Teams, Facilities, Events and Coaches.",
+            "url": "http://gosweat.com/"
+        },
         "grace": {
             "image": "grace.png",
             "name": "Grace",
