@@ -156,6 +156,12 @@
             "description": "Find you game, or let the game find you. At GameOn we want to see people stay active in their busy lives by taking part in the sports and physical activities they love, through a mobile app that connects you to the most relevant games and sessions available near you.",
             "url": "http://letsgameon.co.uk/gameon/index.html"
         },
+        "gll": {
+            "image": "gll.png",
+            "name": "GLL",
+            "description": "A charitable social enterprise operating facilities for physical activity, health and learning.",
+            "url": "http://www.gll.org"
+        },
         "goodgym": {
             "image": "goodgym.png",
             "name": "GoodGym",
