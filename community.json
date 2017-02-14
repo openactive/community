@@ -282,6 +282,12 @@
             "description": "Run Leeds is a citywide project supporting the needs of all joggers and runners in Leeds, whether you've caught the bug, or you've yet to lace your trainers up, there is something for everyone. We believe the opportunity to take part should be accessible to everyone all year round and to do this we are here to offer a helping hand through those sweat soaked turbulent times. But, to achieve this together we need to build active communities, and celebrate the real reasons why we run with one another. Run Leeds will focus on communities that find the opportunity to run together few and far between.",
             "url": "http://runleeds.co.uk/"
         },
+        "sport80": {
+            "image": "sport80.png",
+            "name": "Sport:80",
+            "description": "At Sport:80 we empower the development of sport through the application of innovative technology. At the heart of our business in our intuitive, cloud-based management platform, specifically designed to meet the challenges faced in the sports industry. It enables organisations of all sizes to deliver a sustainable and efficient means of managing their sport whilst providing opportunities for additional revenue generation. The Sport:80 sport management platform is a powerful tool with a sophisticated member CRM at its core. It has the capability to facilitate everything from member registration, event entry, accommodation and travel, to payments, finance and reporting.",
+            "url": "http://sport80.com/"
+        },
         "sport-england": {
             "image": "sport-england.png",
             "name": "Sport England",
