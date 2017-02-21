@@ -288,17 +288,23 @@
             "description": "Run Leeds is a citywide project supporting the needs of all joggers and runners in Leeds, whether you've caught the bug, or you've yet to lace your trainers up, there is something for everyone. We believe the opportunity to take part should be accessible to everyone all year round and to do this we are here to offer a helping hand through those sweat soaked turbulent times. But, to achieve this together we need to build active communities, and celebrate the real reasons why we run with one another. Run Leeds will focus on communities that find the opportunity to run together few and far between.",
             "url": "http://runleeds.co.uk/"
         },
-        "sport80": {
-            "image": "sport80.png",
-            "name": "Sport:80",
-            "description": "At Sport:80 we empower the development of sport through the application of innovative technology. At the heart of our business is our intuitive, cloud-based management platform, specifically designed to meet the challenges faced in the sports industry. It enables organisations of all sizes to deliver a sustainable and efficient means of managing their sport whilst providing opportunities for additional revenue generation. The Sport:80 sport management platform is a powerful tool with a sophisticated member CRM at its core. It has the capability to facilitate everything from member registration, event entry, accommodation and travel, to payments, finance and reporting.",
-            "url": "http://sport80.com/"
+        "sport-and-recreation-alliance": {
+            "image": "sra.png",
+            "name": "Sport and Recreation Alliance",
+            "description": "The Sport and Recreation Alliance is the umbrella body for sport and recreation in the UK and represents 320 members – organisations like The FA, the Rugby Football Union, British Athletics, Ramblers, British Rowing and the Exercise Movement and Dance Partnership. Our role is to speak up on their behalf, represent their views and to provide them with services which make their life easier.",
+            "url": "http://www.sportandrecreation.org.uk/"
         },
         "sport-england": {
             "image": "sport-england.png",
             "name": "Sport England",
             "description": "Sport England's vision is that everyone in England, regardless of age, background or ability, feels able to take part in sport or activity. Some might be fit and talented, but others won’t be so confident. From traditional team sports to activities like walking or going to the gym – we’re building an active nation that caters for everyone.",
             "url": "https://www.sportengland.org/"
+        },
+        "sport80": {
+            "image": "sport80.png",
+            "name": "Sport:80",
+            "description": "At Sport:80 we empower the development of sport through the application of innovative technology. At the heart of our business is our intuitive, cloud-based management platform, specifically designed to meet the challenges faced in the sports industry. It enables organisations of all sizes to deliver a sustainable and efficient means of managing their sport whilst providing opportunities for additional revenue generation. The Sport:80 sport management platform is a powerful tool with a sophisticated member CRM at its core. It has the capability to facilitate everything from member registration, event entry, accommodation and travel, to payments, finance and reporting.",
+            "url": "http://sport80.com/"
         },
         "sportive": {
             "image": "sportive.png",
@@ -323,12 +329,6 @@
             "name": "SportSuite",
             "description": "SportSuite is a set of web modules designed by, with and for sport and physical activity organisations. SportSuite manages event bookings, volunteering opportunities, job listings, funding finders, coaching databases, activity finders and more!",
             "url": "http://sportsuite.co.uk/"
-        },
-        "sra": {
-            "image": "sra.png",
-            "name": "Sport and Recreation Alliance",
-            "description": "The Sport and Recreation Alliance is the umbrella body for sport and recreation in the UK and represents 320 members – organisations like The FA, the Rugby Football Union, British Athletics, Ramblers, British Rowing and the Exercise Movement and Dance Partnership. Our role is to speak up on their behalf, represent their views and to provide them with services which make their life easier.",
-            "url": "http://www.sportandrecreation.org.uk/"
         },
         "runtogether": {
             "image": "runtogether.png",
