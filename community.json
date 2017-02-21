@@ -66,6 +66,12 @@
             "description": "British Rowing, as the governing body for the sport, is responsible for the development of rowing in England and the training and selection of rowers to represent Great Britain. Our vision, through rowing, is to promote the positive impact of sport by providing an enjoyable experience for all participants while upholding our position as a leading rowing nation.",
             "url": "http://www.britishrowing.org/"
         },
+        "claritylive": {
+            "image": "claritylive.png",
+            "name": "ClarityLive Leisure",
+            "description": "ClarityLive Leisure is part of the Omnico Group who are providers of omni-channel software. At ClarityLive we’ve been helping our clients serve their customers for over 30 years. We provide integrated POS, comprehensive bookings, course management, reporting, membership management and business intelligence. ClarityLive leisure provides a versatile platform for your business. This can be anything from multi-site leisure centres, health and fitness clubs to golf clubs, spa retreats, campsite bookings and museums. By using ClarityLive you will be able to provide a high level of service to your customers whilst optimising your resources.",
+            "url": "http://www.clarityliveleisure.co.uk/"
+        },
         "csp-network": {
             "image": "csp-network.png",
             "name": "CSP Network",
@@ -317,6 +323,12 @@
             "name": "SportSuite",
             "description": "SportSuite is a set of web modules designed by, with and for sport and physical activity organisations. SportSuite manages event bookings, volunteering opportunities, job listings, funding finders, coaching databases, activity finders and more!",
             "url": "http://sportsuite.co.uk/"
+        },
+        "sra": {
+            "image": "sra.png",
+            "name": "Sport and Recreation Alliance",
+            "description": "The Sport and Recreation Alliance is the umbrella body for sport and recreation in the UK and represents 320 members – organisations like The FA, the Rugby Football Union, British Athletics, Ramblers, British Rowing and the Exercise Movement and Dance Partnership. Our role is to speak up on their behalf, represent their views and to provide them with services which make their life easier.",
+            "url": "http://www.sportandrecreation.org.uk/"
         },
         "runtogether": {
             "image": "runtogether.png",
