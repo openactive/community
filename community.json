@@ -204,6 +204,12 @@
             "description": "Lancashire Sport Partnership leads and supports the development of creative and committed partnerships, through which high quality sport and physical activity is developed and delivered, to enable 55,000 more individuals in Lancashire to be active by 2017.",
             "url": "http://www.lancashiresport.org.uk/about-us"
         },
+        "lawn-tennis-association": {
+            "image": "lawn-tennis-association.png",
+            "name": "Lawn Tennis Association",
+            "description": "The Lawn Tennis Association's mission is to get more people playing tennis more often, and part of its role is to govern tennis in Great Britain, Channel Islands and the Isle of Man by acting as guardians to promote and safeguard the integrity of the sport.",
+            "url": "http://lta.org.uk"
+        },
         "leeds-city-council": {
             "image": "leeds-city-council.png",
             "name": "Leeds City Council",
@@ -287,6 +293,12 @@
             "name": "Run Leeds",
             "description": "Run Leeds is a citywide project supporting the needs of all joggers and runners in Leeds, whether you've caught the bug, or you've yet to lace your trainers up, there is something for everyone. We believe the opportunity to take part should be accessible to everyone all year round and to do this we are here to offer a helping hand through those sweat soaked turbulent times. But, to achieve this together we need to build active communities, and celebrate the real reasons why we run with one another. Run Leeds will focus on communities that find the opportunity to run together few and far between.",
             "url": "http://runleeds.co.uk/"
+        },
+        "serco": {
+            "image": "serco.png",
+            "name": "Serco Leisure",
+            "description": "Serco provides leisure services on behalf of community leisure trusts, local authorities, universities, and sporting associations such as Sport England. Our facilities include national sports complexes, outdoor activity venues, community leisure centres, gyms, swimming pools, water sports, tennis courts, golf courses, and conference centres.",
+            "url": "https://www.serco.com/uk/sector-expertise/citizen-services/leisure-services"
         },
         "sport-and-recreation-alliance": {
             "image": "sra.png",
