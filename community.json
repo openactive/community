@@ -162,6 +162,12 @@
             "description": "Find you game, or let the game find you. At GameOn we want to see people stay active in their busy lives by taking part in the sports and physical activities they love, through a mobile app that connects you to the most relevant games and sessions available near you.",
             "url": "http://letsgameon.co.uk/gameon/index.html"
         },
+        "getthedata": {
+            "image": "getthedata.png",
+            "name": "GetTheData",
+            "description": "GetTheData surfaces open data and signposts the source.",
+            "url": "https://www.getthedata.com"
+        },
         "gll": {
             "image": "gll.png",
             "name": "GLL",
@@ -209,6 +215,12 @@
             "name": "Lawn Tennis Association",
             "description": "The Lawn Tennis Association's mission is to get more people playing tennis more often, and part of its role is to govern tennis in Great Britain, Channel Islands and the Isle of Man by acting as guardians to promote and safeguard the integrity of the sport.",
             "url": "http://lta.org.uk"
+        },
+        "lee-valley": {
+            "image": "lee-valley.png",
+            "name": "Lee Valley Regional Park Authority",
+            "description": "Lee Valley Regional Park Authority runs award winning open spaces and sports venues along the 26 mile long, 10,000 acre park. The park was created by a unique Act of Parliament as a \"green lung\" for London, Essex and Hertfordshire. Our approach is to be community focused and commercially driven, to work with partners to produce a unique combination of activities, sights and experiences.",
+            "url": "http://www.visitleevalley.org.uk/"
         },
         "leeds-city-council": {
             "image": "leeds-city-council.png",
@@ -275,6 +287,12 @@
             "name": "Pitchwise",
             "description": "Pitchwise is a one-stop portal for the sports community, designed to optimise customers time and money, and put an end to unused resources in the city. It started out from a personal desire for tools to help manage my London based football team better, and has evolved to become a comprehensive gateway for both users and vendors of football facilities.",
             "url": "https://pitchwise.co.uk/"
+        },
+        "played": {
+            "image": "played.png",
+            "name": "Played",
+            "description": "Played is a sports facility booking and match organisation app.",
+            "url": "http://www.playedsports.co.uk"
         },
         "playwaze": {
             "image": "playwaze.png",
@@ -371,6 +389,12 @@
             "name": "WeGym",
             "description": "WeGym is democratising access to fitness motivation. Imagine you could find someone to help you stay motivated - without an hourly rate attached? I'm sure you would be healthier, stronger and in better shape. WeGym helps you do just that. You can find a workout taking place near you and a training partner to go with, in seconds.",
             "url": "http://wegym.co.uk/"
+        },
+        "wildnow": {
+            "image": "wildnow.png",
+            "name": "WILD",
+            "description": "Booking and training recommendation platform powered by machine learning",
+            "url": "http://wildnow.co/"
         },
         "woooba": {
             "image": "woooba.png",
