@@ -270,6 +270,12 @@
             "description": "ReportLab's OpenTrack initiative aims to make the sport of Athletics -including track and field, road, cross country and relay racing -easier to manage and more enjoyable through Open Data and modern webtechnology.",
             "url": "http://opentrack.run/"
         },
+        "openplay": {
+            "image": "openplay.png",
+            "name": "OpenPlay",
+            "description": "OpenPlay is an online platform that connects sports facilities, activity providers and the public together in one place to make it easier for people to get active. It is free for the public and provides and end-to-end online booking system for venues as such as parks, schools, community sites and sports centres as well as activity providers such as coaching organisations and class providers. It receives 80,000+ visitors a month and has over 24,000 registered users.",
+            "url": "http://www.openplay.co.uk/"
+        },
         "our-parks": {
             "image": "our-parks.png",
             "name": "Our Parks",
@@ -410,12 +416,6 @@
         }
     },
     "pioneers" : {
-        "openplay": {
-            "image": "openplay.png",
-            "name": "OpenPlay",
-            "description": "OpenPlay is an online platform that connects sports facilities, activity providers and the public together in one place to make it easier for people to get active. It is free for the public and provides and end-to-end online booking system for venues as such as parks, schools, community sites and sports centres as well as activity providers such as coaching organisations and class providers. It receives 80,000+ visitors a month and has over 24,000 registered users.",
-            "url": "http://www.openplay.co.uk/"
-        },
         "playfootball": {
             "image": "playfootball.png",
             "name": "PlayFootball",
