@@ -294,6 +294,12 @@
             "description": "Pitchwise is a one-stop portal for the sports community, designed to optimise customers time and money, and put an end to unused resources in the city. It started out from a personal desire for tools to help manage my London based football team better, and has evolved to become a comprehensive gateway for both users and vendors of football facilities.",
             "url": "https://pitchwise.co.uk/"
         },
+        "places-for-people": {
+            "image": "places-for-people.png",
+            "name": "Places for People Leisure",
+            "description": "Places for People Leisure is a leading leisure and wellness partner delivering fitness, sport, health and wellbeing. We primarily work with Local Authorities to deliver the right kinds of health and physical activity outcomes that make a difference to the lives of people and their communities; it’s about more than operating facilities.",
+            "url": "http://www.placesforpeopleleisure.org"
+        },
         "played": {
             "image": "played.png",
             "name": "Played",
