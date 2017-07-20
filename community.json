@@ -66,6 +66,12 @@
             "description": "British Rowing, as the governing body for the sport, is responsible for the development of rowing in England and the training and selection of rowers to represent Great Britain. Our vision, through rowing, is to promote the positive impact of sport by providing an enjoyable experience for all participants while upholding our position as a leading rowing nation.",
             "url": "http://www.britishrowing.org/"
         },
+        "calderdale-council": {
+            "image": "calderdale-council.png",
+            "name": "Calderdale Council",
+            "description": "The sport and fitness service provides opportunities for a happier, healthier and more active Calderdale. Our aim is to help Calderdale be the most active borough in the North. Our key challenges are to encourage all residents to be more physically active in any way they choose; to make it easy for our residents to make lifestyle choices that increase activity and improve health; to target inactive people and places to increase participation; and to encourage and enable collaboration and co-creation of initiatives to empower communities.",
+            "url": "https://dataworks.calderdale.gov.uk/"
+        },
         "claritylive": {
             "image": "claritylive.png",
             "name": "ClarityLive Leisure",
