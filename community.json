@@ -30,11 +30,23 @@
             "description": "activeNewham are a Leisure Trust with charitable status working in partnership with Newham Council to deliver leisure, sports and volunteering opportunities in Newham. Since January 2013 our mission has been to support you to become more active in your local community. Whether it's to take part in your favourite sport, organise an event in your local neighbourhood park, or even just to achieve you fitness goals in one of our 5 leisure and fitness centres. We are here to help and support you.",
             "url": "http://www.activenewham.org.uk/"
         },
+        "archery-gb": {
+            "image": "archery-gb.png",
+            "name": "Archery GB",
+            "description": "The National Governing body for Archery in the UK.",
+            "url": "http://archerygb.org"
+        },
         "athliit": {
             "image": "athliit.png",
             "name": "Athliit",
             "description": "Athliit serves sports clubs with what is probably the most intuitive software on the planet for membership management, ticketing and one-click payments. They are leaders in the industry, not because they are the biggest but because they take responsibility for the future needs of sports clubs and their members.",
             "url": "https://athliit.com/?lang_redirect=1"
+        },
+        "badminton-england": {
+            "image": "badminton-england.png",
+            "name": "Badminton England",
+            "description": "Badminton England is the National Governing Body for the sport. Our vision is to one of the nation's most popular sports and consistently win medals at World, Olympic and Paralympic level",
+            "url": "http://www.badmintonengland.co.uk"
         },
         "bookingbug": {
             "image": "bookingbug.png",
@@ -53,6 +65,12 @@
             "name": "British Cycling",
             "description": "British Cycling is the nation's largest cycling organisation and the national governing body for cycle sport. Our vision is to sustain international success, to inspire more people to ride more often, and to get more from their bike riding for sport, recreation or transport.",
             "url": "https://www.britishcycling.org.uk/"
+        },
+        "british-mountaineering-council": {
+            "image": "british-mountaineering-council.png",
+            "name": "The British Mountaineering Council",
+            "description": "The British Mountaineering Council (BMC) is the representative body for hill walkers, climbers and mountaineers in England and Wales",
+            "url": "https://www.thebmc.co.uk/"
         },
         "british-orienteering": {
             "image": "british-orienteering.png",
@@ -140,7 +158,7 @@
         },
         "flexi": {
             "image": "flexi.png",
-            "name": "Flexi",
+            "name": "Flexi Digital",
             "description": "Discover a better way to get active. Flexi unearths fantastic classes happening around you every week. Whether you are looking for a relaxing Yoga class or something that pushes you to your limits, Flexi provides instant pay-as-you-go access to a huge variety of activities happening near you.",
             "url": "https://flexiapp.co.uk/"
         },
@@ -210,6 +228,18 @@
             "description": "We’re lucky to have among our number some of the country’s finest and most passionate health and fitness experts. As a charitable enterprise we work with a wide range of partners to drive down incidences of obesity and diabetes. Opening up our data means we can share widely our full repertoire of health programmes and activities and we’re honoured to be OpenActive Pioneers helping both to reach more communities and other organisations to understand the many benefits of an open data stance.",
             "url": "http://www.wlct.org/"
         },
+        "isle-of-wight-council": {
+            "image": "isle-of-wight-council.png",
+            "name": "Isle of Wight Council (1Leisure)",
+            "description": "The Isle of Wight Council (1Leisure) is the first choice for fitness on the Isle of Wight. We operate 3 modern, well-equipped Leisure Centres offering a comprehensive range of activities and facilities including swimming pools, Tone Zone gyms, fitness classes, racket sports and much much more.",
+            "url": "http://1leisure.co.uk/new/"
+        },
+        "kent-sport": {
+            "image": "kent-sport.png",
+            "name": "Kent Sport",
+            "description": "Kent Sport is a County Sports Partnership and our vision is to change lives through sport and physical activity. We aim to improve life through sport by working with partners to offer a wide range of sustainable sport and physical activity opportunities for all.",
+            "url": "http://www.kentsport.org"
+        },
         "lancashire-sport-partnership": {
             "image": "lancashire-sport-partnership.png",
             "name": "Lancashire Sport Partnership",
@@ -252,6 +282,18 @@
             "description": "London Sport: Making physical activity and sport work better in London. Their vision is to make London the most physically active city in the world, by getting 1,000,000 more Londoners active by 2020. Their aim is simple: to help make London happier, healthier and stronger through sport. They do this by working in partnership with the numerous organisations involved in physical activity and sport in London.",
             "url": "https://londonsport.org/"
         },
+        "makesweat": {
+            "image": "makesweat.png",
+            "name": "Makesweat",
+            "description": "Makesweat is the easiest way to get your sport online. Whether you're a sports club that wants to get booking for training online or a commercial providering offering personal or group fitness training, Makesweat does it all. - and you can embed our widgets on Facebook and your website. Event creation, listing, bookings and payment - it's super easy! Contact us today to discuss your needs.",
+            "url": "http://makesweat.com"
+        },
+        "manchester-city-council": {
+            "image": "manchester-city-council.png",
+            "name": "Manchester City Council",
+            "description": "Manchester City Council aims to encourage Manchester residents to participate in sport and physical activity and improve their health and wellbeing throughout their lives regardless of where they live or their cultural background, and to maintain the profile of Manchester as a leading sporting city and destination.",
+            "url": "http://mcractive.com"
+        },
         "move": {
             "image": "move.png",
             "name": "Move",
@@ -288,6 +330,12 @@
             "description": "Our Parks is a brand new initiative bringing free, group exercise classes, led by experienced, fully qualified and insured instructors, to parks near you in partnership with Councils / Local Authorities. It is our aim to ensure that easy access to exercise is available to you and your local community and Our Parks utilises a bespoke technology to enable residents to book and register on classes and communicate with other park users to provide a fitter and socially active community.",
             "url": "http://www.ourparks.org.uk/"
         },
+        "oxspa": {
+            "image": "oxspa.png",
+            "name": "Oxfordshire Sport & Physical Activity",
+            "description": "Our focus is to work with partners and stakeholders to add value and increase participation in sport and physical activity in Oxfordshire.",
+            "url": "http://www.oxspa.org.uk"
+        },
         "parkour-generations": {
             "image": "parkour-generations.png",
             "name": "Parkour Generations",
@@ -323,6 +371,12 @@
             "name": "Poplar HARCA",
             "description": "Poplar HARCA is a Housing Association who own and manage around 9,500 homes in Poplar, East London; the majority of these were transferred from the London Borough of Tower Hamlets back in 1998. Since then, we have refurbished all those homes and built almost 1,000 new ones. We invest heavily in making Poplar a great place to live, with 13 community centres and many programmes aimed at engaging the local residents and making Poplar a great place to live. We recognise that tech will play an important part in the future of all sectors and are keen to embrace this revolution and find solutions that bring the most benefit to the end user",
             "url": "http://www.poplarharca.co.uk/"
+        },
+        "rounders-england": {
+            "image": "rounders-england.png",
+            "name": "Rounders England",
+            "description": "Rounders England are the national governing body for Rounders. Rounders is a cross-generational, cross gender game that embraces all abilities. It’s a game that’s all about sociability, about connecting with people in an age where screens separate generations and are replacing real and meaningful interactions. A game of Rounders makes great memories, offering an ideal balance between fun and fitness with great opportunities to make friends, get some exercise and have a good laugh away from the pressures of everyday life. Our new mission ‘Connecting People through Rounders’ is at the heart of all we do.",
+            "url": "http://www.roundersengland.co.uk/"
         },
         "run-leeds": {
             "image": "run-leeds.png",
@@ -408,6 +462,12 @@
             "description": "Upshot was initially developed in 2012 to help the hundreds of organisations funded by the Football Foundation, the UK's largest sports charity. It was built with an extremely high degree of flexibility and was designed to be easy to set up and valuable to a wide range of audiences/users. It is a tool to help organisations manage their activities, monitor progress towards goals, and gather evidence of success for funders.",
             "url": "http://upshot.org.uk/"
         },
+        "vibrant-partnerships": {
+            "image": "vibrant-partnerships.png",
+            "name": "Vibrant Partnerships",
+            "description": "Vibrant Partnerships is a not for profit organisation which thrives on delivering community focused, accessible programmes through sport, leisure and entertainment to create vibrant visitor destinations.",
+            "url": "http://vibrantpartnerships.co.uk"
+        },
         "wegym": {
             "image": "wegym.png",
             "name": "WeGym",
@@ -419,6 +479,12 @@
             "name": "WILD",
             "description": "Booking and training recommendation platform powered by machine learning",
             "url": "http://wildnow.co/"
+        },
+        "winchester-city-council": {
+            "image": "winchester-city-council.png",
+            "name": "Wincester City Council",
+            "description": "Winchester is a vibrant heritage destination with world class attractions and architecture including a magnificent Cathedral, award-winning pubs and restaurants and a tempting array of independent shops. This culturally rich medieval city is surrounded by idyllic Hampshire villages and the fabulous rolling countryside of the South Downs National Park.",
+            "url": "http://www.winchester.gov.uk"
         },
         "woooba": {
             "image": "woooba.png",
