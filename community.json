@@ -444,6 +444,12 @@
             "description": "SportSuite is a set of web modules designed by, with and for sport and physical activity organisations. SportSuite manages event bookings, volunteering opportunities, job listings, funding finders, coaching databases, activity finders and more!",
             "url": "http://sportsuite.co.uk/"
         },
+        "substance": {
+            "image": "substance.png",
+            "name": "Substance",
+            "description": "Substance is a research and technology company. We helps organisations that do good, think smarter – and make more of a difference. We work across different sectors and with many types of organisation – charities, social businesses and government. Our core team is made up of highly experienced social researchers, technologists and programme managers, each with their own specialisms. What we share is an ambition to make organisations that do good have a greater impact.",
+            "url": "http://www.substance.net/"
+        },
         "table-tennis-365": {
             "image": "table-tennis-365.png",
             "name": "Table Tennis 365",
